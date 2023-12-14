@@ -1,0 +1,13 @@
+html,body{
+    margin:0;
+    padding: 0;
+}
+p{
+    margin: inherit;
+}
+input{
+    text-align: right;
+}
+.answer{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
